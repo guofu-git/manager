@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acbab182-db5f-415e-a440-5d8becbf7195" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cR1jVAgQBQmXS3jkgBUP9z2Km1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TwoWeiShuZu" />
+      <recent name="ShuZu" />
+      <recent name="DuoChongXunHuan" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\B IDEA_workspace\KeGongChang\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestUser">
+    <configuration name="OrderFoodSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderFoodSystem.OrderFoodSys" />
+      <module name="KeGongChang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrderFoodSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.TestUser" />
+      <module name="KeGongChang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVisitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.TestVisitor" />
+      <module name="KeGongChang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="substr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mm.substr" />
+      <module name="KeGongChang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mm.test" />
+      <module name="KeGongChang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestUser" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.TestVisitor" />
+        <item itemvalue="Application.substr" />
+        <item itemvalue="Application.OrderFoodSys" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acbab182-db5f-415e-a440-5d8becbf7195" name="Default Changelist" comment="" />
+      <created>1590476726486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590476726486</updated>
+      <workItem from="1590476731063" duration="9648000" />
+      <workItem from="1590500126670" duration="3670000" />
+      <workItem from="1590561913359" duration="316000" />
+      <workItem from="1590562773109" duration="745000" />
+      <workItem from="1590633216204" duration="5799000" />
+      <workItem from="1590719408153" duration="6267000" />
+      <workItem from="1591150868190" duration="7975000" />
+      <workItem from="1591410195452" duration="4071000" />
+      <workItem from="1591688106409" duration="6885000" />
+      <workItem from="1591756549756" duration="5049000" />
+      <workItem from="1591840781549" duration="4231000" />
+      <workItem from="1591948904505" duration="641000" />
+      <workItem from="1591955503929" duration="3338000" />
+      <workItem from="1592095669080" duration="3867000" />
+      <workItem from="1592191924574" duration="2011000" />
+      <workItem from="1592204249308" duration="6934000" />
+      <workItem from="1592964706262" duration="5074000" />
+      <workItem from="1592974292591" duration="4288000" />
+      <workItem from="1593153668088" duration="1463000" />
+      <workItem from="1600219729136" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="890" height="250" key="GridCell.Tab.0.bottom" timestamp="1593154776391">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="890" height="250" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593154776391" />
+    <state width="890" height="250" key="GridCell.Tab.0.center" timestamp="1593154776390">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="890" height="250" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593154776390" />
+    <state width="890" height="250" key="GridCell.Tab.0.left" timestamp="1593154776390">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="890" height="250" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593154776390" />
+    <state width="890" height="250" key="GridCell.Tab.0.right" timestamp="1593154776390">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="890" height="250" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593154776390" />
+    <state width="1491" height="263" key="GridCell.Tab.1.bottom" timestamp="1593057489347">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="263" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593057489347" />
+    <state width="1491" height="263" key="GridCell.Tab.1.center" timestamp="1593057489346">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="263" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593057489346" />
+    <state width="1491" height="263" key="GridCell.Tab.1.left" timestamp="1593057489345">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="263" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593057489345" />
+    <state width="1491" height="263" key="GridCell.Tab.1.right" timestamp="1593057489346">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="263" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593057489346" />
+    <state x="269" y="58" key="SettingsEditor" timestamp="1592974414436">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="269" y="58" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592974414436" />
+    <state x="660" y="120" width="782" height="582" key="new project wizard" timestamp="1600219828680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="660" y="120" width="782" height="582" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1600219828680" />
+    <state x="426" y="71" width="672" height="676" key="search.everywhere.popup" timestamp="1592978769050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="426" y="71" width="672" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1592978769050" />
+  </component>
+</project>
